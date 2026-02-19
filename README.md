@@ -252,8 +252,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **Gmail**: [Open to new roles — let's connect via email](as764994@gmail.com)
-- **LinkedIn**: [Let's connect and explore how I can add value to your team](www.linkedin.com/in/ayush-singh-finance)
+- **Gmail**: (as764994@gmail.com)
+- **LinkedIn**: [Let's connect and explore how I can add value to your team](https://www.linkedin.com/in/ayush-singh-finance/)
 - **GitHub**: [Browse my repositories to see what I can build for you](https://github.com/as764994-droid)
 
 Thank you for your support, and I look forward to connecting with you!
